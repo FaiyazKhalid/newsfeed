@@ -44,7 +44,7 @@
                         $newsSource = array(
                             array(
                                 "title" => "Advocatespedia",
-                                "url" => "https://advocatespedia.com/api.php?hidebots=1&days=7&limit=50&hidecategorization=1&action=feedrecentchanges&feedformat=atom"
+                                "url" => "https://advocatespedia.com/api.php?hidebots=1&days=7&limit=50&hidecategorization=1&action=feedrecentchanges&feedformat.xml"
                             ),
                             array(
                                 "title" => "CNN",
