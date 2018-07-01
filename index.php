@@ -43,8 +43,8 @@
                         $html = "";
                         $newsSource = array(
                             array(
-                                "title" => "BBC",
-                                "url" => "http://feeds.bbci.co.uk/news/world/rss.xml"
+                                "title" => "Advocatespedia",
+                                "url" => "https://advocatespedia.com/api.php?hidebots=1&days=7&limit=50&hidecategorization=1&action=feedrecentchanges&feedformat=atom"
                             ),
                             array(
                                 "title" => "CNN",
